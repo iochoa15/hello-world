@@ -11,3 +11,7 @@ Let see.
 
 
 Oh!! so I guess if I've to make more corrections I'll go here and meake the next change.
+
+
+
+I think Im getting it, for the most part, this is jut to make a new commit.
