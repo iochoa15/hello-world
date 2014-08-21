@@ -18,3 +18,6 @@ I think Im getting it, for the most part, this is jut to make a new commit.
 
 
 Ok, so taking it from where I left, thi sis a new commit .......
+
+
+This is the seconw new commit in the new branch... lets see
